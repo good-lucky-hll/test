@@ -23,7 +23,7 @@ end
 set  @n="Lily";
 call get_score(@n);
 
-
+select @n;
 
 
 
